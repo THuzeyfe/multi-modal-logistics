@@ -1,0 +1,11 @@
+id,name,coordinate_x,coordinate_y,airport
+1.0,sah,7.06,5.96,False
+2.0,kmy,1.31,4.62,False
+3.0,rnj,9.69,2.26,False
+4.0,aye,11.85,2.90,True
+5.0,iig,18.22,3.87,False
+6.0,ifx,2.69,3.93,True
+7.0,bmw,10.45,5.38,False
+8.0,lzn,1.83,3.00,False
+9.0,pct,2.72,1.92,False
+10.0,brq,16.94,1.93,False

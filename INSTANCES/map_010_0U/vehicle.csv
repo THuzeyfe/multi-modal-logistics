@@ -1,0 +1,7 @@
+id,name,speed,price,price_unit,weight_capacity,volume_capacity,vehicle_type
+1,Volvo F12,55,1.4,euro/km,11000,40,highway
+2,BMC Austin,60,1.0,euro/km,8000,30,highway
+3,Ford Highboy,70,0.4,euro/km,3000,12,highway
+4,Power Wagon,90,0.5,euro/km,2500,12,highway
+5,C-47 Skytrain,950,11000.0,euro/hour,16000,100,airway
+6,Old Shakey,720,8000.0,euro/hour,6000,30,airway
