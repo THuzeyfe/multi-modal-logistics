@@ -25,15 +25,22 @@ This repository provides instances for a multi-Modal Transportation problem. The
 └── 📄 README.md
 ```
 
-
 **Abbreviations**
+
 NNN: 3-digit number of nodes
+
 MI: 1-digit map index for that number of nodes
+
 MT: map type (U: uniform, C: clustured)
+
 FI: 2-digit fleet file index
+
 FD: fleet difficulty (E: easy, M: medium, D: difficult) 
+
 LI: 3-digit load file index
+
 LN: 3-digit number of loads LD
+
 load difficulty (E: easy, M: medium, D: difficult) 
 
 ## File Explanations
