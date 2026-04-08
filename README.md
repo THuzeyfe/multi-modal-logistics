@@ -7,20 +7,35 @@ This repository provides instances for a multi-Modal Transportation problem. The
 ## Content
 
 /multi-modal-logistics
+
 │
+
 ├── 📂 INSTANCES
-│   └── 📂 map_{NNN}_{MI}{MT}                   
+
+│   └── 📂 map_{NNN}_{MI}{MT}
+
 │       ├── 📂 fleet_scenarios
-│       │   └── 📊 fleet_{FI}{FD}.csv                    
+
+│       │   └── 📊 fleet_{FI}{FD}.csv
+
 │       ├── 📂 load_scenarios
+
 │       │   └── 📊 loads_{LI}_{LN}{LD}.csv
+
 │       ├── 📊 cities.csv
+
 │       ├── 📊 airway.csv
+
 │       ├── 📊 highway.csv
+
 │       └── 📊 vehicle.csv
+
 ├── 📜 starter.ipynb
+
 ├── ❄️ transport_engine.py
+
 ├── 📊 thesis_instances.json
+
 └── 📄 README.md
 
 **Abbreviations**
