@@ -579,7 +579,7 @@
         "instance_id": "inst_037",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0060E.csv",
+        "loads": "loads_000_0060E",
         "broken_arcs": [],
         "description": ""
     },
@@ -587,7 +587,7 @@
         "instance_id": "inst_038",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0060M.csv",
+        "loads": "loads_001_0060M",
         "broken_arcs": [],
         "description": ""
     },
@@ -595,7 +595,7 @@
         "instance_id": "inst_039",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0060H.csv",
+        "loads": "loads_002_0060H",
         "broken_arcs": [],
         "description": ""
     },
@@ -603,7 +603,7 @@
         "instance_id": "inst_040",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0100E.csv",
+        "loads": "loads_003_0100E",
         "broken_arcs": [],
         "description": ""
     },
@@ -611,7 +611,7 @@
         "instance_id": "inst_041",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0100M.csv",
+        "loads": "loads_004_0100M",
         "broken_arcs": [],
         "description": ""
     },
@@ -619,7 +619,7 @@
         "instance_id": "inst_042",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_005_0100H.csv",
+        "loads": "loads_005_0100H",
         "broken_arcs": [],
         "description": ""
     },
@@ -627,7 +627,7 @@
         "instance_id": "inst_043",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0200E.csv",
+        "loads": "loads_006_0200E",
         "broken_arcs": [],
         "description": ""
     },
@@ -635,7 +635,7 @@
         "instance_id": "inst_044",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0200M.csv",
+        "loads": "loads_007_0200M",
         "broken_arcs": [],
         "description": ""
     },
@@ -643,7 +643,7 @@
         "instance_id": "inst_045",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_008_0200H.csv",
+        "loads": "loads_008_0200H",
         "broken_arcs": [],
         "description": ""
     },
@@ -651,7 +651,7 @@
         "instance_id": "inst_046",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0060E.csv",
+        "loads": "loads_000_0060E",
         "broken_arcs": [
             10,
             11,
@@ -690,7 +690,7 @@
         "instance_id": "inst_047",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0060M.csv",
+        "loads": "loads_001_0060M",
         "broken_arcs": [
             10,
             11,
@@ -729,7 +729,7 @@
         "instance_id": "inst_048",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0060H.csv",
+        "loads": "loads_002_0060H",
         "broken_arcs": [
             10,
             11,
@@ -768,7 +768,7 @@
         "instance_id": "inst_049",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0100E.csv",
+        "loads": "loads_003_0100E",
         "broken_arcs": [
             10,
             11,
@@ -807,7 +807,7 @@
         "instance_id": "inst_050",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0100M.csv",
+        "loads": "loads_004_0100M",
         "broken_arcs": [
             10,
             11,
@@ -846,7 +846,7 @@
         "instance_id": "inst_051",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_005_0100H.csv",
+        "loads": "loads_005_0100H",
         "broken_arcs": [
             10,
             11,
@@ -885,7 +885,7 @@
         "instance_id": "inst_052",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0200E.csv",
+        "loads": "loads_006_0200E",
         "broken_arcs": [
             10,
             11,
@@ -924,7 +924,7 @@
         "instance_id": "inst_053",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0200M.csv",
+        "loads": "loads_007_0200M",
         "broken_arcs": [
             10,
             11,
@@ -963,7 +963,7 @@
         "instance_id": "inst_054",
         "map": "INSTANCES/map_025_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_008_0200H.csv",
+        "loads": "loads_008_0200H",
         "broken_arcs": [
             10,
             11,
@@ -1002,7 +1002,7 @@
         "instance_id": "inst_055",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0060E.csv",
+        "loads": "loads_000_0060E",
         "broken_arcs": [],
         "description": ""
     },
@@ -1010,7 +1010,7 @@
         "instance_id": "inst_056",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0060M.csv",
+        "loads": "loads_001_0060M",
         "broken_arcs": [],
         "description": ""
     },
@@ -1018,7 +1018,7 @@
         "instance_id": "inst_057",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0060H.csv",
+        "loads": "loads_002_0060H",
         "broken_arcs": [],
         "description": ""
     },
@@ -1026,7 +1026,7 @@
         "instance_id": "inst_058",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0100E.csv",
+        "loads": "loads_003_0100E",
         "broken_arcs": [],
         "description": ""
     },
@@ -1034,7 +1034,7 @@
         "instance_id": "inst_059",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0100M.csv",
+        "loads": "loads_004_0100M",
         "broken_arcs": [],
         "description": ""
     },
@@ -1042,7 +1042,7 @@
         "instance_id": "inst_060",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_005_0100H.csv",
+        "loads": "loads_005_0100H",
         "broken_arcs": [],
         "description": ""
     },
@@ -1050,7 +1050,7 @@
         "instance_id": "inst_061",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0200E.csv",
+        "loads": "loads_006_0200E",
         "broken_arcs": [],
         "description": ""
     },
@@ -1058,7 +1058,7 @@
         "instance_id": "inst_062",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0200M.csv",
+        "loads": "loads_007_0200M",
         "broken_arcs": [],
         "description": ""
     },
@@ -1066,7 +1066,7 @@
         "instance_id": "inst_063",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_008_0200H.csv",
+        "loads": "loads_008_0200H",
         "broken_arcs": [],
         "description": ""
     },
@@ -1074,7 +1074,7 @@
         "instance_id": "inst_064",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0060E.csv",
+        "loads": "loads_000_0060E",
         "broken_arcs": [
             0,
             1,
@@ -1125,7 +1125,7 @@
         "instance_id": "inst_065",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0060M.csv",
+        "loads": "loads_001_0060M",
         "broken_arcs": [
             0,
             1,
@@ -1176,7 +1176,7 @@
         "instance_id": "inst_066",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0060H.csv",
+        "loads": "loads_002_0060H",
         "broken_arcs": [
             0,
             1,
@@ -1227,7 +1227,7 @@
         "instance_id": "inst_067",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0100E.csv",
+        "loads": "loads_003_0100E",
         "broken_arcs": [
             0,
             1,
@@ -1278,7 +1278,7 @@
         "instance_id": "inst_068",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0100M.csv",
+        "loads": "loads_004_0100M",
         "broken_arcs": [
             0,
             1,
@@ -1329,7 +1329,7 @@
         "instance_id": "inst_069",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_005_0100H.csv",
+        "loads": "loads_005_0100H",
         "broken_arcs": [
             0,
             1,
@@ -1380,7 +1380,7 @@
         "instance_id": "inst_070",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0200E.csv",
+        "loads": "loads_006_0200E",
         "broken_arcs": [
             0,
             1,
@@ -1431,7 +1431,7 @@
         "instance_id": "inst_071",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0200M.csv",
+        "loads": "loads_007_0200M",
         "broken_arcs": [
             0,
             1,
@@ -1482,7 +1482,7 @@
         "instance_id": "inst_072",
         "map": "INSTANCES/map_025_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_008_0200H.csv",
+        "loads": "loads_008_0200H",
         "broken_arcs": [
             0,
             1,
@@ -1533,7 +1533,7 @@
         "instance_id": "inst_073",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0120E.csv",
+        "loads": "loads_000_0120E",
         "broken_arcs": [],
         "description": ""
     },
@@ -1541,7 +1541,7 @@
         "instance_id": "inst_074",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0120M.csv",
+        "loads": "loads_001_0120M",
         "broken_arcs": [],
         "description": ""
     },
@@ -1549,7 +1549,7 @@
         "instance_id": "inst_075",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0120H.csv",
+        "loads": "loads_002_0120H",
         "broken_arcs": [],
         "description": ""
     },
@@ -1557,7 +1557,7 @@
         "instance_id": "inst_076",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0250E.csv",
+        "loads": "loads_003_0250E",
         "broken_arcs": [],
         "description": ""
     },
@@ -1565,7 +1565,7 @@
         "instance_id": "inst_077",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0250M.csv",
+        "loads": "loads_004_0250M",
         "broken_arcs": [],
         "description": ""
     },
@@ -1573,7 +1573,7 @@
         "instance_id": "inst_078",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0500E.csv",
+        "loads": "loads_006_0500E",
         "broken_arcs": [],
         "description": ""
     },
@@ -1581,7 +1581,7 @@
         "instance_id": "inst_079",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0500M.csv",
+        "loads": "loads_007_0500M",
         "broken_arcs": [],
         "description": ""
     },
@@ -1589,7 +1589,7 @@
         "instance_id": "inst_080",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0120E.csv",
+        "loads": "loads_000_0120E",
         "broken_arcs": [
             36,
             37,
@@ -1668,7 +1668,7 @@
         "instance_id": "inst_081",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0120M.csv",
+        "loads": "loads_001_0120M",
         "broken_arcs": [
             36,
             37,
@@ -1747,7 +1747,7 @@
         "instance_id": "inst_082",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0120H.csv",
+        "loads": "loads_002_0120H",
         "broken_arcs": [
             36,
             37,
@@ -1826,7 +1826,7 @@
         "instance_id": "inst_083",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0250E.csv",
+        "loads": "loads_003_0250E",
         "broken_arcs": [
             36,
             37,
@@ -1905,7 +1905,7 @@
         "instance_id": "inst_084",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0250M.csv",
+        "loads": "loads_004_0250M",
         "broken_arcs": [
             36,
             37,
@@ -1984,7 +1984,7 @@
         "instance_id": "inst_085",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0500E.csv",
+        "loads": "loads_006_0500E",
         "broken_arcs": [
             36,
             37,
@@ -2063,7 +2063,7 @@
         "instance_id": "inst_086",
         "map": "INSTANCES/map_050_0U",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0500M.csv",
+        "loads": "loads_007_0500M",
         "broken_arcs": [
             36,
             37,
@@ -2142,7 +2142,7 @@
         "instance_id": "inst_087",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0120E.csv",
+        "loads": "loads_000_0120E",
         "broken_arcs": [],
         "description": ""
     },
@@ -2150,7 +2150,7 @@
         "instance_id": "inst_088",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0120M.csv",
+        "loads": "loads_001_0120M",
         "broken_arcs": [],
         "description": ""
     },
@@ -2158,7 +2158,7 @@
         "instance_id": "inst_089",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0120H.csv",
+        "loads": "loads_002_0120H",
         "broken_arcs": [],
         "description": ""
     },
@@ -2166,7 +2166,7 @@
         "instance_id": "inst_090",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0250E.csv",
+        "loads": "loads_003_0250E",
         "broken_arcs": [],
         "description": ""
     },
@@ -2174,7 +2174,7 @@
         "instance_id": "inst_091",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0250M.csv",
+        "loads": "loads_004_0250M",
         "broken_arcs": [],
         "description": ""
     },
@@ -2182,7 +2182,7 @@
         "instance_id": "inst_092",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0500E.csv",
+        "loads": "loads_006_0500E",
         "broken_arcs": [],
         "description": ""
     },
@@ -2190,7 +2190,7 @@
         "instance_id": "inst_093",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0500M.csv",
+        "loads": "loads_007_0500M",
         "broken_arcs": [],
         "description": ""
     },
@@ -2198,7 +2198,7 @@
         "instance_id": "inst_094",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_000_0120E.csv",
+        "loads": "loads_000_0120E",
         "broken_arcs": [
             2,
             3,
@@ -2333,7 +2333,7 @@
         "instance_id": "inst_095",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_001_0120M.csv",
+        "loads": "loads_001_0120M",
         "broken_arcs": [
             2,
             3,
@@ -2468,7 +2468,7 @@
         "instance_id": "inst_096",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_002_0120H.csv",
+        "loads": "loads_002_0120H",
         "broken_arcs": [
             2,
             3,
@@ -2603,7 +2603,7 @@
         "instance_id": "inst_097",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_003_0250E.csv",
+        "loads": "loads_003_0250E",
         "broken_arcs": [
             2,
             3,
@@ -2738,7 +2738,7 @@
         "instance_id": "inst_098",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_004_0250M.csv",
+        "loads": "loads_004_0250M",
         "broken_arcs": [
             2,
             3,
@@ -2873,7 +2873,7 @@
         "instance_id": "inst_099",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_006_0500E.csv",
+        "loads": "loads_006_0500E",
         "broken_arcs": [
             2,
             3,
@@ -3008,7 +3008,7 @@
         "instance_id": "inst_100",
         "map": "INSTANCES/map_050_1C",
         "fleet": "fleet_00M",
-        "loads": "loads_007_0500M.csv",
+        "loads": "loads_007_0500M",
         "broken_arcs": [
             2,
             3,
